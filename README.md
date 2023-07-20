@@ -1,18 +1,18 @@
 # Calendar-Frontend
 Calendar-Frontend is a frontend application developed using React, designed to provide a user-friendly calendar experience with various features.
 
-Table of Contents
+## Table of Contents
 Getting Started
 Prerequisites
 Installation
 Usage
 
-# Getting Started
+## Getting Started
 Welcome to Calendar-Frontend! This project is a frontend application developed using React. The primary purpose of this project is to create an interactive calendar that allows users to manage their events, appointments, and schedules efficiently.
 
 To get started with the project, follow the instructions below to set up your development environment.
 
-# Prerequisites
+## Prerequisites
 Before you proceed, make sure you have the following installed:
 
 - Node.js version 18.16.1 or higher
@@ -23,7 +23,7 @@ You can check your Node.js version by running:
 node --version
 ```
 
-# Installation
+## Installation
 1. Clone the repository:
 ```console
 git clone https://github.com/ByronO/Calendar-Frontend.git
@@ -35,7 +35,7 @@ cd calendar-frontend
 npm install
 ```
 
-# Usage
+## Usage
 To start the development server, run the following command:
 
 ```console
