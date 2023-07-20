@@ -2,10 +2,10 @@
 Calendar-Frontend is a frontend application developed using React, designed to provide a user-friendly calendar experience with various features.
 
 ## Table of Contents
-Getting Started
-Prerequisites
-Installation
-Usage
+- Getting Started
+- Prerequisites
+- Installation
+- Usage
 
 ## Getting Started
 Welcome to Calendar-Frontend! This project is a frontend application developed using React. The primary purpose of this project is to create an interactive calendar that allows users to manage their events, appointments, and schedules efficiently.
