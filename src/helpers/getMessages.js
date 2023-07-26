@@ -1,18 +1,18 @@
 export const getMessagesES = () => {
 
     return {
-        allDay: 'Todo el día',
+        allDay: 'All Day',
         previous: '<',
         next: '>',
-        today: 'Hoy',
-        month: 'Mes',
-        week: 'Semana',
-        day: 'Día',
+        today: 'Today',
+        month: 'Month',
+        week: 'Week',
+        day: 'Day',
         agenda: 'Agenda',
-        date: 'Fecha',
-        time: 'Hora',
-        event: 'Evento',
-        noEventsInRange: 'No hay eventos en este rango',
-        showMore: total => `+ Ver más (${total})`
+        date: 'Date',
+        time: 'Hour',
+        event: 'Event',
+        noEventsInRange: 'No events in this range',
+        showMore: total => `+ See more (${total})`
     };
 }
